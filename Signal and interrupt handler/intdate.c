@@ -9,9 +9,9 @@
 // Other Files:      
 // Semester:         CS 354 Fall 2019
 //
-// Author:           Jason Sutanto
-// Email:            jsutanto2@wisc.edu
-// CS Login:         Sutanto
+// Author:           Pulkit Goyal
+// Email:            pgoyal22@wisc.edu
+// CS Login:         pulkit
 //
 /////////////////////////// OTHER SOURCES OF HELP /////////////////////////////
 //                   fully acknowledge and credit all sources of help,
